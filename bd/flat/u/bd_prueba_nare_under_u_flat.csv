@@ -1,4 +1,4 @@
-,ID,D_ActivacionIncrem_Nar,D_ActivacionIncrem_Unr,Opt_CalculoRagaliasIncrementales_Nar,Opt_CalculoRagaliasIncrementales_Unr,Unc_MultPreciobaseValorGas,Opt_EscCAPEX_Perforacion,Opt_EscVentaCrudo,Unc_MultCAPEXPerfo_UGEUnr,Unc_MultOPEX_UGEUnr,Unc_MultCAPEXFacilidades_Nar,E_Brent,Total_VPN,volumen_Mbls,Capex,opex,flat
+n,ID,D_ActivacionIncrem_Nar,D_ActivacionIncrem_Unr,Opt_CalculoRagaliasIncrementales_Nar,Opt_CalculoRagaliasIncrementales_Unr,Unc_MultPreciobaseValorGas,Opt_EscCAPEX_Perforacion,Opt_EscVentaCrudo,Unc_MultCAPEXPerfo_UGEUnr,Unc_MultOPEX_UGEUnr,Unc_MultCAPEXFacilidades_Nar,E_Brent,Total_VPN,volumen_Mbls,Capex,opex,flat
 0,0.0,1.0,1.0,1.0,1.0,1.0,3.0,2.0,1.0,1.0,0.7,40.0,-312.3842425014976,23.078289705525684,604.9366148563663,552.2048910064627,4.0
 1,1.0,1.0,1.0,1.0,1.0,1.0,3.0,2.0,0.7,0.9,0.8,40.0,-263.14943654081463,23.078289705525684,540.6031312644187,519.8071787078861,4.0
 2,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,0.7,0.9,0.7,60.0,-199.43007912509867,23.078289705525684,599.9814548563663,633.9210627182342,6.0
