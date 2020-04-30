@@ -1,4 +1,4 @@
-,ID,D_ActivacionIncrem_Jaz,D_ActivacionIncrem_Abr,D_ActivacionIncrem_Gir,Opt_CalculoRagaliasIncrementales_Jaz,Opt_EscVentaCrudo,Opt_EscCAPEX_Perforacion,Opt_AlternativasFacilidades_ICV_AbrGir,Opt_CalculoRagaliasIncrementales_AbrGir,Unc_MultPreciobaseValorGas,Unc_MultCAPEXPerfo_UGEJaz,Unc_MultCAPEXFacilidades_Jaz,Unc_MultOPEX_UGEJaz,E_Brent,Total_VPN,volumen_Mbls,Capex,opex
+n,ID,D_ActivacionIncrem_Jaz,D_ActivacionIncrem_Abr,D_ActivacionIncrem_Gir,Opt_CalculoRagaliasIncrementales_Jaz,Opt_EscVentaCrudo,Opt_EscCAPEX_Perforacion,Opt_AlternativasFacilidades_ICV_AbrGir,Opt_CalculoRagaliasIncrementales_AbrGir,Unc_MultPreciobaseValorGas,Unc_MultCAPEXPerfo_UGEJaz,Unc_MultCAPEXFacilidades_Jaz,Unc_MultOPEX_UGEJaz,E_Brent,Total_VPN,volumen_Mbls,Capex,opex
 0,0.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.7,1.0,0.8,1.0,50.0,-39.06659253233976,190.19516550018875,1315.7875475745145,3868.8805733551358
 1,1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.7,0.9,0.8,0.9,20.0,-1198.0285612597622,56.00568523776178,1162.3681475745145,1132.9746784585684
 2,2.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.8,1.0,0.9,0.9,35.0,-962.258876155936,76.65202721380695,1300.102291021329,1651.7497743926106

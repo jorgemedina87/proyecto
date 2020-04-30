@@ -1,4 +1,4 @@
-,ID,D_ActivacionIAV_Mor,D_ActivacionICV_Mor,Opt_CalculoRagaliasIncrementales_Mor,Unc_MultPreciobaseValorGas,Opt_EscCAPEX_Perforacion,Opt_EscVentaCrudo,Unc_MultCAPEXFacilidadesIAV_Mor,Unc_MultCAPEXFacilidadesICV_Mor,Unc_MultCAPEXPerfo_UGE_Mor,Unc_MultOPEX_Mor,E_Brent,Total_VPN,volumen_Mbls,Capex,opex
+n,ID,D_ActivacionIAV_Mor,D_ActivacionICV_Mor,Opt_CalculoRagaliasIncrementales_Mor,Unc_MultPreciobaseValorGas,Opt_EscCAPEX_Perforacion,Opt_EscVentaCrudo,Unc_MultCAPEXFacilidadesIAV_Mor,Unc_MultCAPEXFacilidadesICV_Mor,Unc_MultCAPEXPerfo_UGE_Mor,Unc_MultOPEX_Mor,E_Brent,Total_VPN,volumen_Mbls,Capex,opex
 0,0.0,1.0,1.0,1.0,0.7,2.0,2.0,0.8,0.8,1.0,1.0,50.0,-1233.2626699299676,82.74649910419797,3353.920880484145,1963.00204051517
 1,1.0,1.0,1.0,1.0,0.7,3.0,1.0,0.8,0.8,0.9,0.9,20.0,-1733.0877280534478,41.50495899604326,2637.1344804841456,723.9483657484234
 2,2.0,1.0,1.0,1.0,0.8,3.0,1.0,0.9,0.9,1.0,0.9,35.0,-1630.611072653574,41.50495899604326,2948.011540544663,796.0970528521161
